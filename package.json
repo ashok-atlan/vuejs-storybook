@@ -23,6 +23,7 @@
     "@storybook/vue3": "^8.4.6",
     "@storybook/vue3-vite": "^8.4.6",
     "@vitejs/plugin-vue": "^5.2.1",
+    "figma-api": "^2.0.1-beta",
     "storybook": "^8.4.6",
     "typescript": "~5.6.2",
     "vite": "^6.0.1",
