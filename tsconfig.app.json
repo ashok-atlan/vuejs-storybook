@@ -6,7 +6,10 @@
     "module": "ESNext",
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "skipLibCheck": true,
-
+    "baseUrl": ".",
+    "paths": {
+      "custom-vue-package": ["./custom-vue-package/dist"]
+    },
     /* Bundler mode */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,

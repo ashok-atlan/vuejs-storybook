@@ -1,3 +1,4 @@
+
 .storybook-page {
   margin: 0 auto;
   padding: 48px 20px;
@@ -54,7 +55,6 @@
   font-size: 13px;
   line-height: 20px;
 }
-
 .storybook-page .tip-wrapper svg {
   display: inline-block;
   vertical-align: top;

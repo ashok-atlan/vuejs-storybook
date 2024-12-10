@@ -5,7 +5,9 @@
     "lib": ["ES2023"],
     "module": "ESNext",
     "skipLibCheck": true,
-
+    "paths": {
+      "custom-vue-package": ["./custom-vue-package/dist"]
+    },
     /* Bundler mode */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
